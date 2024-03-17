@@ -7,7 +7,6 @@ set gfn=8514oem:h12
 set ts=4
 set sw=4
 set si
-cd C:\Users\edgar\everything
 
 set backspace=indent,eol,start
 
