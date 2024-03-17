@@ -5,7 +5,6 @@ set cb=unnamed
 set ts=4
 set sw=4
 set si
-cd /home/doublebrackets/everything
 
 set backspace=indent,eol,start
 
